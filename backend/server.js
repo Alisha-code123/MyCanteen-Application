@@ -199,7 +199,7 @@ app.use(
 );
 
 /* ===== STATIC FILES ===== */
-app.use("/images", express.static("uploads"));
+// app.use("/images", express.static("uploads"));
 
 /* ===== ROUTES ===== */
 
